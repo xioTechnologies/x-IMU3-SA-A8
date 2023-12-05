@@ -1,0 +1,8 @@
+**/*.X/**
+!**/*.X/Makefile
+!**/*.X/nbproject
+!**/*.X/nbproject/configurations.xml
+!**/*.X/nbproject/project.xml
+!**/*.X/*.mc3
+
+hex-archive
