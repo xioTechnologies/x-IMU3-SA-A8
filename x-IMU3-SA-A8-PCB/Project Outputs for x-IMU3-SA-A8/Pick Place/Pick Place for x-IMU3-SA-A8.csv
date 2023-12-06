@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+C:\MyFiles\x-io\Products\x-IMU3\x-IMU3-SA-A8\x-IMU3-SA-A8-PCB\Project Outputs for x-IMU3-SA-A8\Pick Place\Pick Place for x-IMU3-SA-A8.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/12/23
+Time:       16:13
+Revision:   0f1c9a978e8816d35a6a3d0338fc5886773b8c75
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"J2","5.0000mm","19.0000mm","TopLayer","180","SP-3533-02"
+"U2","10.0000mm","19.2500mm","BottomLayer","180","LP5907SNX-3.0"
+"C4","10.0000mm","18.0000mm","BottomLayer","180","10uF"
+"C3","10.0000mm","20.5000mm","BottomLayer","0","10uF"
+"R1","1.0000mm","16.5000mm","BottomLayer","0","10kR"
+"R2","10.0000mm","15.0000mm","BottomLayer","0","YC248-FR-07220RL"
+"U1","4.5000mm","15.2500mm","BottomLayer","270","PIC32MM0064GPL020-I/ML"
+"J1","13.4300mm","11.5000mm","TopLayer","90","Molex 90121-0770"
+"C2","7.7500mm","13.7500mm","BottomLayer","270","10uF"
+"TP1","1.0000mm","17.7500mm","BottomLayer","270","Test Point"
+"TP3","1.0000mm","15.2500mm","BottomLayer","270","Test Point"
+"TP2","1.0000mm","20.2500mm","BottomLayer","270","Test Point"
+"R3","3.7500mm","19.0000mm","BottomLayer","90","180R"
+"C1","1.0000mm","13.5000mm","BottomLayer","90","100nF"
