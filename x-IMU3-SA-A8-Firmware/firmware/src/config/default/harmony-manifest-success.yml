@@ -4,7 +4,7 @@
 
 
 project: x-IMU3-SA-A8-Firmware
-creation_date: 2024-03-03T14:34:09.678Z[Europe/London]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
+creation_date: 2024-04-27T17:34:39.374+01:00[Europe/London]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
 operating_system: Windows 10
 mcc_mode: IDE            # [IDE|Standalone|Headless]
 mcc_version: v5.5.0
@@ -14,6 +14,6 @@ harmony_version: v1.3.2
 compiler: XC32 4.35
 
 modules:
-    - {name: "csp", version: "v3.18.2"}
+    - {name: "csp", version: "v3.18.5"}
     - {name: "dev_packs", version: "v3.18.1"}
 

@@ -37,7 +37,7 @@ int main(void) {
     // Print start up message
     TimerDelayMilliseconds(500);
     ResetCausePrint(ResetCauseGet());
-    printf("x-IMU3-SA-A8 v1.0.1\n");
+    printf("x-IMU3-SA-A8 v1.0.2\n");
 
     // Main program loop
     while (true) {
