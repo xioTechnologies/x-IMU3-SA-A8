@@ -4,9 +4,9 @@ C:\MyFiles\x-io\Products\x-IMU3\x-IMU3-SA-A8\x-IMU3-SA-A8-PCB\Project Outputs fo
 ========================================================================================================================
 File Design Information:
 
-Date:       06/12/23
-Time:       16:13
-Revision:   0f1c9a978e8816d35a6a3d0338fc5886773b8c75
+Date:       27/04/24
+Time:       17:58
+Revision:   d45ac225d1d74d446dc5e3f4664b7a18f227001f
 Variant:    No variations
 Units used: mm
 
@@ -23,5 +23,5 @@ Units used: mm
 "TP1","1.0000mm","17.7500mm","BottomLayer","270","Test Point"
 "TP3","1.0000mm","15.2500mm","BottomLayer","270","Test Point"
 "TP2","1.0000mm","20.2500mm","BottomLayer","270","Test Point"
-"R3","3.7500mm","19.0000mm","BottomLayer","90","180R"
+"R3","3.7500mm","19.0000mm","BottomLayer","90","470R"
 "C1","1.0000mm","13.5000mm","BottomLayer","90","100nF"
