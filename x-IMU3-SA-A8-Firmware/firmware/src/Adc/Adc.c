@@ -15,7 +15,8 @@
 // Definitions
 
 /**
- * @brief Oversampling factor.
+ * @brief Oversampling factor.  A oversampling factor of 64 is equivalent to an
+ * extra 3 bits of resolution.
  */
 #define OVERSAMPLING 64
 
