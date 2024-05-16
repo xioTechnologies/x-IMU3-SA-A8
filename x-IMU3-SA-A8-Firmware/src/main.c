@@ -55,7 +55,7 @@ int main(void) {
         // Enable idle mode (will wake up on next interrupt)
         POWER_LowPowerModeEnter(LOW_POWER_IDLE_MODE);
     }
-    return ( EXIT_FAILURE);
+    return (EXIT_FAILURE);
 }
 
 //------------------------------------------------------------------------------
