@@ -45,7 +45,7 @@
           <itemPath>../src/x-io-PIC32-Library/Uart/Uart.h</itemPath>
           <itemPath>../src/x-io-PIC32-Library/Uart/Uart1.h</itemPath>
         </logicalFolder>
-        <itemPath>../src/x-io-PIC32-Library/CircularBuffer.h</itemPath>
+        <itemPath>../src/x-io-PIC32-Library/Fifo.h</itemPath>
         <itemPath>../src/x-io-PIC32-Library/PeripheralBusClockFrequency.h</itemPath>
       </logicalFolder>
     </logicalFolder>
