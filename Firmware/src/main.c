@@ -7,7 +7,7 @@
  * PIC32MM0064GPL020
  *
  * Compiler:
- * XC32 v4.40, MPLAB Harmony 3
+ * XC32 v4.45, MPLAB Harmony 3
  */
 
 //------------------------------------------------------------------------------
@@ -37,7 +37,7 @@ int main(void) {
     // Print start up message
     TimerDelayMilliseconds(500);
     ResetCausePrint(ResetCauseGet());
-    printf("x-IMU3-SA-A8 v1.0.3\n");
+    printf("x-IMU3-SA-A8 v1.0.4\n");
 
     // Main program loop
     while (true) {
