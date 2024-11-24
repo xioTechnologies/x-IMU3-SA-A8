@@ -21,7 +21,7 @@
 #define OVERSAMPLING 64
 
 /**
- * @brief Scaling for 12-bit resolution and 3.3 V reference.
+ * @brief Scaling for 12-bit resolution and 3.0 V reference.
  */
 #define SCALING (3.0f / ((float) OVERSAMPLING * 4095.0f))
 
