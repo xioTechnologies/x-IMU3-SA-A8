@@ -4,13 +4,13 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
             <name>x-IMU3-SA-A8-Firmware</name>
-            <creation-uuid>74316bad-d97e-47d2-b58b-b1a6569592d8</creation-uuid>
+            <creation-uuid>615f7bfd-fec1-4ee2-aa34-ef16c4821dd8</creation-uuid>
             <make-project-type>0</make-project-type>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList>
-                <sourceRootElem>../src/x-io-PIC32-Library</sourceRootElem>
                 <sourceRootElem>../src/Adc</sourceRootElem>
+                <sourceRootElem>../src/x-io-PIC32-Library</sourceRootElem>
             </sourceRootList>
             <confList>
                 <confElem>
