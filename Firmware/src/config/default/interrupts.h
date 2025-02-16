@@ -56,7 +56,7 @@
 // Section: Handler Routines
 // *****************************************************************************
 // *****************************************************************************
-void AdcInterrupt(void);
+void AdcInterruptHandler(void);
 void Uart1RXInterruptHandler(void);
 void Uart1TXInterruptHandler(void);
 void Cct1InterruptHandler(void);

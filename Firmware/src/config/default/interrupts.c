@@ -79,7 +79,7 @@ void CCT1_Handler (void);
 // *****************************************************************************
 void __ISR(_ADC_VECTOR, ipl1SOFT) ADC_Handler (void)
 {
-    AdcInterrupt();
+    AdcInterruptHandler();
 }
 
 void __ISR(_UART1_RX_VECTOR, ipl1SOFT) UART1_RX_Handler (void)
